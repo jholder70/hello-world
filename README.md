@@ -1,2 +1,3 @@
-# hello-world
-Main Repository
+# hello-world Main Repository
+
+This is my first GitHub repository.
